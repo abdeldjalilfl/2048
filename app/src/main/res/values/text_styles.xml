@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2018.
+  ~ This code created by Abdeldjalil Elaaeieida
+  -->
+
+<resources>
+    <style name="TextStyleA">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">14dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!--A-->
+    <style name="TextStyleA1">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">14dp</item>
+        <item name="android:textColor">@color/blue_dark_indigo</item>
+    </style>
+
+    <style name="TextStyleA2">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">16sp</item>
+        <item name="android:textColor">@color/grey_battleship</item>
+    </style>
+
+    <style name="TextStyleAIndex">
+        <item name="android:textSize">10sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">22sp</item>
+        <item name="android:textColor">@color/copper</item>
+    </style>
+
+    <!--B-->
+
+    <style name="TextStyleB1">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">-2dp</item>
+        <item name="android:textColor">@color/blue_dark_indigo</item>
+    </style>
+
+    <style name="TextStyleB2">
+        <item name="android:textSize">10sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">-4sp</item>
+        <item name="android:textColor">@color/grey_500</item>
+    </style>
+
+    <style name="TextStyleBIndex">
+        <item name="android:textSize">8sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">22sp</item>
+        <item name="android:textColor">@color/copper</item>
+    </style>
+
+
+</resources>

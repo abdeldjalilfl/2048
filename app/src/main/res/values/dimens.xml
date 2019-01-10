@@ -1,0 +1,52 @@
+<!--
+  ~ Copyright (c) 2018.
+  ~ This code created by Abdeldjalil Elaaeieida
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="actionBarSize">56dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+
+    <!--margin-->
+    <dimen name="margin_activity">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!--image width-->
+    <!--<dimen name="image_width_large">match</dimen>-->
+    <dimen name="image_width_normal">130dp</dimen>
+
+    <!--image height-->
+    <dimen name="image_height_large">180dp</dimen>
+    <dimen name="image_height_normal">132dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_activity">16dp</dimen>
+
+    <!--font sizes-->
+    <dimen name="font_larger">22sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_tint">10sp</dimen>
+
+    <!--spacing between two views-->
+    <dimen name="spacing_huge">40sp</dimen>
+    <dimen name="spacing_large">24sp</dimen>
+    <dimen name="spacing_normal">14sp</dimen>
+    <dimen name="spacing_small">10sp</dimen>
+    <dimen name="spacing_tint">4sp</dimen>
+
+    <!--size of views-->
+    <dimen name="button_height_tall">60sp</dimen>
+    <dimen name="button_height_normal">40sp</dimen>
+    <dimen name="button_height_short">32sp</dimen>
+
+    <!---->
+    <dimen name="radius_hierarchy_progress_fresco">8dp</dimen>
+    <dimen name="pager_dot_size">8dp</dimen>
+
+</resources>
